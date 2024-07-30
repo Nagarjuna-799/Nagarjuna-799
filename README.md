@@ -6,9 +6,16 @@
 - 📫 How to reach me:kurubanaga2002@gmail.com
   ## Projects
 Here are some of the projects I've worked on:
-  
+   Project title: Book Store Management System:
+I have done project on "Book Store Management System". The main purpose of the project is to Manage the books in the store by register the details of book. After that registered book details are added to the available books table we can perform edit, delete operations and also we can add to the my books table.
+I have use used java, MySQL, Spring boot, Hibernate, HTML and Thyme leaf
+My Responsibilities:
 
-<!---
-Nagarjuna-799/Nagarjuna-799 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+❖	Designed and implemented the backend using Spring Boot and Hibernate for efficient database interaction.
+❖	Utilized Hibernate for ORM and MySQL for database management.
+❖	Developed the frontend using HTML and Thyme leaf to create a user-friendly interface.
+❖	Implemented RESTful APIs for communication between frontend and backend.
+
+
+
+
